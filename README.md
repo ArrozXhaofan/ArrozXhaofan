@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ArrozXhaofan
-- 👀 I’m interested in learn cibersegurity
-- 🌱 I’m currently learning hacking.
+- 👀 I’m interested web tecnologies.
+- 🌱 I’m currently learning about front end.
