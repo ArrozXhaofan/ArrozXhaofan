@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ArrozXhaofan
-- 👀 I’m interested web tecnologies.
-- 🌱 I’m currently learning about front end.
+- 👀 I’m interested about Apple Tecnologies. 
